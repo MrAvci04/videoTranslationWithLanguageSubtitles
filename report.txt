@@ -1,0 +1,120 @@
+Majd Massalha - Project report:
+
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+
+
+
+**Week 1-6: Preparation and Initial Learning (56 hours)**  
+
+
+- Week 1 (10 hours):
+  - : Watching Videos on Similar Projects and How to Approach Them: 4 hours
+  - : Choosing the Programming Language and Tools: 2 hours
+  - : Learning Python (with LeetCode practice): 4 hours
+
+- Week 2 (10 hours):
+  - : Learning Python (with LeetCode practice): 5 hours
+  - : Setting up the Development Environment: 3 hours
+  - : Exploring Tkinter for GUI Development: 2 hours
+
+- Week 3 (9 hours):
+  - : Learning Python (with LeetCode practice): 4 hours
+  - : Learning OpenCV: 5 hours
+
+- Week 4 (9 hours):
+  - : Learning Whisper: 5 hours
+  - : Learning FFmpeg: 4 hours
+
+- Week 5 (9 hours):
+  - : Learning Whisper: 4 hours
+  - : Exploring Google Cloud Services: 5 hours
+
+- Week 6 (9 hours):
+  - : Learning OpenCV: 4 hours
+  - : Deepening Knowledge of Tkinter for GUI Development: 5 hours
+
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+**Week 7-11: Core Development (42 hours)**  
+
+
+- Week 7 (8 hours):
+  - : Developing GUI Application (`Application.py`): 5 hours
+  - : Implementing Video Processing with OpenCV: 3 hours
+
+- Week 8 (8 hours):
+  - : Implementing Video Processing with OpenCV: 5 hours
+  - : Developing Audio Extraction Module (`audio_extract.py`): 3 hours
+
+- Week 9 (8 hours):
+  - : Developing Audio Extraction Module (`audio_extract.py`): 5 hours
+  - : Integrating Whisper Model for Transcription: 3 hours
+
+- Week 10 (9 hours):
+  - : Integrating Whisper Model for Transcription: 5 hours
+  - : Developing Subtitle Creation Functionality: 4 hours
+
+- Week 11 (9 hours):
+  - : Developing Subtitle Creation Functionality: 4 hours
+  - : Translating Text Using Google Translate API: 5 hours
+
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+**Week 12-16: Reduced Workload and Integration (26 hours)**  
+
+
+- Week 12 (5 hours):
+  - : Translating Text Using Google Translate API: 2 hours
+  - : Integrating Subtitles into Video: 3 hours
+
+- Week 13 (5 hours):
+  - : Integrating Subtitles into Video: 3 hours
+  - : Speech Recognition Integration (`SpeechRecognition.py`): 2 hours
+
+- Week 14 (5 hours):
+  - : Speech Recognition Integration (`SpeechRecognition.py`): 3 hours
+  - : Error Handling and Logging: 2 hours
+
+- Week 15 (6 hours):
+  - : Error Handling and Logging: 2 hours
+  - : Unit Testing Individual Components: 4 hours
+
+- Week 16 (5 hours):
+  - : Unit Testing Individual Components: 3 hours
+  - : Integration Testing: 2 hours
+
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+**Week 17-22: Finalization and Documentation (48 hours)**  
+
+
+- Week 17 (9 hours):
+  - : Integration Testing: 5 hours
+  - : Bug Fixing: 4 hours
+
+- Week 18 (9 hours):
+  - : Bug Fixing: 4 hours
+  - : Final Testing and Optimization: 5 hours
+
+- Week 19 (8 hours):
+  - : Final Testing and Optimization: 4 hours
+  - : Starting Project Documentation: 4 hours
+
+- Week 20 (8 hours):
+  - : Writing Project Documentation: 4 hours
+  - : Preparing the Final Report: 4 hours
+
+- Week 21 (7 hours):
+  - : Preparing the Final Report: 3 hours
+  - : Final Review and Polish: 4 hours
+
+- Week 22 (7 hours):
+  - : Final Review and Polish: 7 hours
+
+---
+
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+ 
+- Weeks 1-6: Initial preparation, language/tool selection, and foundational learning.
+- Weeks 7-11: Core development with a balanced workload.
+- Weeks 12-16: Reduced workload, focusing on integration and handling.
+- Weeks 17-22: Intensive finalization, testing, and documentation, with no presentation creation involved.
+
+- 172 hours..

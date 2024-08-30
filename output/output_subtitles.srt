@@ -1,0 +1,139 @@
+1
+00:00:0,000 --> 00:07:47,355
+ What is Tucker? Containerization explained in a simple story
+
+2
+00:07:47,355 --> 00:15:34,710
+In my previous show, we learned that containerization technology helps software run easily, freely and independently, but how to put software in a container
+
+3
+00:15:34,710 --> 00:23:22,065
+How to run the container
+
+4
+00:23:22,065 --> 00:31:9,419
+To answer those questions, let's meet the hero behind the scene, Tucker, a container runtime, and its processes
+
+5
+00:31:9,419 --> 00:38:56,774
+What is Tucker? What is container runtime? What are the processes? It sounds complicated
+
+6
+00:38:56,774 --> 00:46:44,129
+No worries, let's simply watch a short story
+
+7
+00:46:44,129 --> 00:54:31,484
+This is Docke
+
+8
+00:54:31,484 --> 01:02:18,839
+Docke works on a Docke
+
+9
+01:02:18,839 --> 01:10:6,194
+He packs and loads cargo sunbessels
+
+10
+01:10:6,194 --> 01:17:53,549
+He helps his clients to ship stuff all over the world
+
+11
+01:17:53,549 --> 01:25:40,903
+It is an important job
+
+12
+01:25:40,903 --> 01:33:28,258
+Docke likes his job
+
+13
+01:33:28,258 --> 01:41:15,613
+One day a client named Jane comes to the Docke
+
+14
+01:41:15,613 --> 01:49:2,968
+Jane urgently needs to ship many different packages
+
+15
+01:49:2,968 --> 01:56:50,323
+How to do that quickly? Docke gets a shipping instruction list
+
+16
+01:56:50,323 --> 02:04:37,678
+It lists everything on how to ship Jane's stuff in a container, what type of container, how to upload her stuff to the container, and how to ship the container on the boat, etc
+
+17
+02:04:37,678 --> 02:12:25,033
+This is just like software containerization
+
+18
+02:12:25,033 --> 02:20:12,387
+First, a container runtime, such as Docker, needs to be available on the server
+
+19
+02:20:12,387 --> 02:27:59,742
+Next, a Docker file is prepared with all the steps to pack the software to the container and to run the container on the server
+
+20
+02:27:59,742 --> 02:35:47,097
+Following the instructions, Docke works diligently on building Jane's container
+
+21
+02:35:47,097 --> 02:43:34,452
+This is exactly what the software Docker is doing, building the container following the Docker file instructions
+
+22
+02:43:34,452 --> 02:51:21,807
+When the container is done, Docke sticks a label on it and pushes it to the container warehouse, waiting for the next shipping time
+
+23
+02:51:21,807 --> 02:59:9,162
+As for the software Docker, the finished container is called container image, just like a container template
+
+24
+02:59:9,162 --> 03:06:56,517
+Similarly, Docker tags and pushes the image to the image registry, the warehouse
+
+25
+03:06:56,517 --> 03:14:43,871
+It is time to ship
+
+26
+03:14:43,871 --> 03:22:31,226
+Docke pulls the container out of the warehouse and uploads it to the boat
+
+27
+03:22:31,226 --> 03:30:18,581
+Now Jane's stuff is ready to go to the world
+
+28
+03:30:18,581 --> 03:38:5,936
+At the same time, the software Docker pulls out the image, runs container instances on the server, to serve the world
+
+29
+03:38:5,936 --> 03:45:53,291
+Congratulations! Now you understand Docker, the container runtime, and its processes, simple
+
+30
+03:45:53,291 --> 03:53:40,646
+In the real shipping world, things can be more complicated on a large scale
+
+31
+03:53:40,646 --> 04:01:28,001
+With so many containers and operations, orchestration is needed
+
+32
+04:01:28,001 --> 04:09:15,355
+It is the same in the software world
+
+33
+04:09:15,355 --> 04:17:2,710
+Do you know who is the best container orchestrator? Comment it below
+
+34
+04:17:2,710 --> 04:24:50,065
+Keep learning
+
+35
+04:24:50,065 --> 04:32:37,420
+No matter how complex it seems, remember, it is just a docking and shipping business, simple.

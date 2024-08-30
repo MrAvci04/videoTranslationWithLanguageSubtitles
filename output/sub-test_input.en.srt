@@ -1,0 +1,124 @@
+1 
+00:00:0,000 --> 00:00:7,560 
+ What is Docker? Containerization explained in a simple story. 
+
+2 
+00:00:7,560 --> 00:00:13,720 
+ In my previous show, we learned that containerization technology helps software run easily, freely, 
+
+3 
+00:00:13,720 --> 00:00:18,840 
+ and independently. But how to put software in a container? How to run the container? 
+
+4 
+00:00:18,840 --> 00:00:24,640 
+ To answer those questions, let's meet the hero behind the scene, Docker, a container runtime, 
+
+5 
+00:00:24,640 --> 00:00:28,280 
+ and its processes. 
+
+6 
+00:00:28,280 --> 00:00:34,480 
+ What is Docker? What is container runtime? What are the processes? It sounds complicated. 
+
+7 
+00:00:34,480 --> 00:00:39,480 
+ No worries, let's simply watch a short story. 
+
+8 
+00:00:39,480 --> 00:00:45,280 
+ This is Daki. Daki works on a dock. He packs and loads cargoes on vessels. He helps his 
+
+9 
+00:00:45,280 --> 00:00:53,200 
+ clients to ship stuff all over the world. It is an important job. Daki likes his job. 
+
+10 
+00:00:53,200 --> 00:00:57,720 
+ One day a client named Jane comes to the dock. Jane urgently needs to ship many different 
+
+11 
+00:00:57,720 --> 00:01:3,680 
+ packages. How to do that quickly? Daki gets a shipping instruction list. It lists everything 
+
+12 
+00:01:3,680 --> 00:01:8,120 
+ on how to ship Jane's stuff in a container, what type of container, how to upload her 
+
+13 
+00:01:8,120 --> 00:01:14,680 
+ stuff to the container, and how to ship the container on the boat, etc. 
+
+14 
+00:01:14,680 --> 00:01:20,640 
+ This is just like software containerization. First, a container runtime, such as Docker, 
+
+15 
+00:01:20,640 --> 00:01:25,360 
+ needs to be available on the server. Next, a Docker file is prepared with all the steps 
+
+16 
+00:01:25,400 --> 00:01:32,080 
+ to pack the software to the container, and to run the container on the server. 
+
+17 
+00:01:32,080 --> 00:01:37,360 
+ Following the instructions, Daki works diligently on building Jane's container. This is exactly 
+
+18 
+00:01:37,360 --> 00:01:44,920 
+ what the software Docker is doing, building the container following the Docker file instructions. 
+
+19 
+00:01:44,920 --> 00:01:50,280 
+ When the container is done, Daki sticks a label on it, and pushes it to the container warehouse, 
+
+20 
+00:01:50,280 --> 00:01:56,720 
+ waiting for the next shipping time. As for the software Docker, the finished container 
+
+21 
+00:01:56,720 --> 00:02:2,520 
+ is called container image, just like a container template. Similarly, Docker tags and pushes 
+
+22 
+00:02:2,520 --> 00:02:10,320 
+ the image to the image registry, the warehouse. It is time to ship. Daki pulls the container 
+
+23 
+00:02:10,320 --> 00:02:14,520 
+ out of the warehouse and uploads it to the boat. Now Jane's stuff is ready to go to 
+
+24 
+00:02:14,520 --> 00:02:21,480 
+ the world. At the same time, the software Docker pulls out the image, runs container 
+
+25 
+00:02:21,480 --> 00:02:29,600 
+ instances on the server, to serve the world. Congratulations. Now you understand Docker, 
+
+26 
+00:02:29,600 --> 00:02:35,320 
+ the container runtime, and its processes. Simple. 
+
+27 
+00:02:35,320 --> 00:02:39,880 
+ In the real chipping world, things can be more complicated on a large scale. With so 
+
+28 
+00:02:39,880 --> 00:02:44,960 
+ many containers and operations, orchestration is needed. It is the same in the software 
+
+29 
+00:02:44,960 --> 00:02:47,960 
+ world. 
+
+30 
+00:02:47,960 --> 00:02:53,540 
+ Do you know who is the best container orchestrator? Comment it below. Keep learning. No matter 
+
+31 
+00:02:53,540 --> 00:02:58,760 
+ how complex it seems, remember, it is just a docking and shipping business. Simple. 
+
